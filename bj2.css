@@ -1,0 +1,16 @@
+.pic90{
+    transform: rotate(90deg);
+
+}
+img{
+    margin-bottom: 80px;
+}
+#hdrResult, #hdrTotal{
+    margin-bottom: 100px;
+}
+span{
+    background-color: cornsilk;
+    color: darkgoldenrod;
+    border: 4px dashed darkblue;
+    display: none;
+}

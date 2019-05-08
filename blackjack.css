@@ -1,0 +1,36 @@
+body{
+    background-color: seagreen;
+}
+#main{
+    background-color: whitesmoke;
+}
+#control{
+    clear: both;
+}
+#myHand{
+    clear: both;
+    border: 1px solid grey;
+    height: 250px;
+    width: 835px;
+
+}
+h3{
+    display: inline;
+    padding-right: 40px;
+}
+.currentHand{
+    float: left;
+}
+#btnStick, #btnHit, #btnRestart, #btnResult{
+    display: none;
+    float: left;
+}
+#picture{
+    z-index: 20;
+    float: left;
+    position: absolute;
+}
+#picture>img{
+    width: 200px;
+    height:200px;
+}

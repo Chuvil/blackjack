@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7051fa72-f82d-441f-b8bd-726bcb84b8f1" name="blackjack" url="http://blackjack/">
+        <fileTransfer port="0" mountedRoot="D:\openserver\OpenServer\domains\blackjack" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
